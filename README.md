@@ -37,7 +37,8 @@ Here are some ideas to get you started:
 
 ###### 📫 How to Reach Me
 - Email: [ihsanmaulanayusuf@email.com]  
-- LinkedIn: [linkedin.com/in/ihsan-maulana-yusuf]  
+- LinkedIn: [linkedin.com/in/ihsan-maulana-yusuf](https://www.linkedin.com/in/ihsan-maulana-yusuf)
+
 - GitHub: [github.com/ihsanmaulanayusuf](https://github.com/ihsanmaulanayusuf)
 
 ###### 😄 Pronouns

@@ -48,5 +48,3 @@ He/Him
 I also enjoy speaking English! I'm always open to anyone who wants to be a language partner, practice conversations, or just connect through communication.
 
 
-![Ihsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ihsanmaulanayusuf&show_icons=true&theme=radical)
-
